@@ -6331,7 +6331,7 @@ th.hide-for-touch {
     display: table-cell !important; } }
 
 .top {
-  height: 400px;
+  height: 100vh;
   width: 100vw; }
 
 html {
@@ -6366,7 +6366,31 @@ html {
   right: 0;
   margin-left: auto;
   margin-right: auto;
-  top: 290px; }
+  top: 290px;
+  -webkit-animation-name: spin;
+          animation-name: spin;
+  -webkit-animation-duration: 4000ms;
+          animation-duration: 4000ms;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+          animation-timing-function: linear; }
+
+@-webkit-keyframes spin {
+  from {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg); }
+  to {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg); } }
+
+@keyframes spin {
+  from {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg); }
+  to {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg); } }
 
 .top {
   font-family: 'Cinzel', serif;
