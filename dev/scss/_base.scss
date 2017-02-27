@@ -1,0 +1,61 @@
+html {
+font-family: 'Dosis', sans-serif;
+margin: 0;
+padding: 0;
+max-width: 1200px;
+}
+#page-subtitle {
+  font-family: 'Dosis', sans-serif;
+}
+.top {
+  font-family: 'Cinzel', sans-serif;
+  @extend %box-height;
+  .black-box {
+    height: 200px;
+  }
+}
+.white-box {
+
+  height: 100%;
+  width: 100vw;
+
+  background-color: $light-color;
+}
+.black-box {
+
+  height: 100%;
+  width: 100vw;
+
+  background-color: $dark-color;
+  color: white;
+
+}
+
+#bw-logo {
+  // display: none;
+  height: 220px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  top: 290px;
+}
+.top {
+
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  line-height: 50%;
+  .menu {
+    line-height: normal;
+    a {
+    text-decoration: none;
+    font-family: 'Dosis', sans-serif;
+
+    transition: all 200ms ease-in-out;
+    &:hover {
+      transform: scale(1.15);
+    }
+  }
+  }
+}

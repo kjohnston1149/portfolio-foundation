@@ -7,8 +7,14 @@
 		"uuidString": "6C29D925-96A6-45FE-BD4F-96673B55EBE8"
 		}
 	],
-"creatorBuild": "25504",
+"creatorBuild": "25568",
 "files": {
+	"\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
 	"\/assets\/css\/app.css": {
 		"aP": 1,
 		"bl": 0,
@@ -18,6 +24,108 @@
 		"oAP": "\/assets\/css\/app.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/assets\/img\/dual-color-logo.png": {
+		"ft": 32768,
+		"iS": 50181,
+		"oA": 0,
+		"oAP": "\/assets\/img\/dual-color-logo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/img\/marine-qna.png": {
+		"ft": 32768,
+		"iS": 275082,
+		"oA": 0,
+		"oAP": "\/assets\/img\/marine-qna.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/img\/portland-comedy.png": {
+		"ft": 32768,
+		"iS": 1452667,
+		"oA": 0,
+		"oAP": "\/assets\/img\/portland-comedy.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/img\/w-on-black-logo.png": {
+		"ft": 32768,
+		"iS": 93308,
+		"oA": 0,
+		"oAP": "\/assets\/img\/w-on-black-logo.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/img\/wcmn-case-study.png": {
+		"ft": 32768,
+		"iS": 1259707,
+		"oA": 0,
+		"oAP": "\/assets\/img\/wcmn-case-study.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/img\/west-coast-marine-network.png": {
+		"ft": 32768,
+		"iS": 1550943,
+		"oA": 0,
+		"oAP": "\/assets\/img\/west-coast-marine-network.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/assets\/js\/fastclick.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/fastclick.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/assets\/js\/foundation.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/assets\/js\/foundation.min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/assets\/js\/jquery.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/jquery.js",
+		"oF": 1,
+		"sC": 0,
+		"tS": 0
+		},
+	"\/assets\/js\/jquery.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/jquery.min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/assets\/js\/modernizr.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/modernizr.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/assets\/js\/plug-ins.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 2,
+		"oAP": "\/assets\/js\/plug-ins.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 0
 		},
 	"\/assets\/js\/scripts.js": {
 		"ft": 64,
@@ -3451,6 +3559,58 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/dev\/scss\/_base.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/dev\/scss\/_base.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/dev\/scss\/_extends.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/dev\/scss\/_extends.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/dev\/scss\/_foundation.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/dev\/scss\/_foundation.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/dev\/scss\/_variables.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/dev\/scss\/_variables.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/dev\/scss\/app.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -4369,6 +4529,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-multi-assign": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-multi-spaces": {
 			"active": 0,
 			"optionString": "{'exceptions': {'Property': true, 'BinaryExpression': false, 'VariableDeclarator': false, 'ImportDeclaration': false}}"
@@ -4697,6 +4861,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
+			},
 		"prefer-rest-params": {
 			"active": 0,
 			"optionString": ""
@@ -4790,6 +4958,10 @@
 			"optionString": ""
 			},
 		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
 			"active": 0,
 			"optionString": "'never'"
 			},
